@@ -1,0 +1,27 @@
+{
+  "name": "speller-it-words",
+  "version": "0.1.0",
+  "description": "IT Words Dictionary for eslint-plugin-speller",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itlci/speller-it-words.git"
+  },
+  "keywords": [
+    "speller",
+    "it",
+    "words",
+    "terms",
+    "software",
+    "dictionary",
+    "eslint-plugin-speller",
+    "eslint",
+    "spell checker"
+  ],
+  "author": "Łukasz Cichorek (ITLCI)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itlci/speller-it-words/issues"
+  },
+  "homepage": "https://github.com/itlci/speller-it-words#readme"
+}
