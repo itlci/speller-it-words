@@ -1,8 +1,9 @@
 const { readFileSync } = require("fs");
+const path = require("path");
 const fileName = "words.txt";
 
 const getWords = function() {
-  return readFileSync(fileName, "utf8");
+  return readFileSync(path.resolve(__dirname, fileName), "utf8");
 };
 const getWordsArray = function() {
   return getWords().split("\n");
