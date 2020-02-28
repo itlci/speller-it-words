@@ -1,6 +1,6 @@
 {
   "name": "speller-it-words",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "IT Words Dictionary for eslint-plugin-speller",
   "main": "index.js",
   "repository": {
